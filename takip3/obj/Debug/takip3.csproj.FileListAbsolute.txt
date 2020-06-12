@@ -1,0 +1,273 @@
+C:\Users\aLP\source\repos\takip3\takip3\obj\Debug\takip3.anaekran.resources
+C:\Users\aLP\source\repos\takip3\takip3\obj\Debug\takip3.Form1.resources
+C:\Users\aLP\source\repos\takip3\takip3\obj\Debug\takip3.Properties.Resources.resources
+C:\Users\aLP\source\repos\takip3\takip3\obj\Debug\takip3.csproj.GenerateResource.cache
+C:\Users\aLP\source\repos\takip3\takip3\obj\Debug\takip3.csproj.CoreCompileInputs.cache
+C:\Users\aLP\source\repos\takip3\takip3\bin\Debug\takip3.exe.config
+C:\Users\aLP\source\repos\takip3\takip3\bin\Debug\takip3.exe
+C:\Users\aLP\source\repos\takip3\takip3\bin\Debug\takip3.pdb
+C:\Users\aLP\source\repos\takip3\takip3\obj\Debug\takip3.exe
+C:\Users\aLP\source\repos\takip3\takip3\obj\Debug\takip3.pdb
+C:\Users\aLP\source\repos\takip3\takip3\bin\Debug\stok_takip.mdf
+C:\Users\aLP\source\repos\takip3\takip3\bin\Debug\stok_takip_log.ldf
+C:\Users\aLP\source\repos\takip3\takip3\obj\Debug\takip3.aktarma.resources
+C:\Users\aLP\source\repos\takip3\takip3\obj\Debug\takip3.depocikis.resources
+C:\Users\aLP\source\repos\takip3\takip3\obj\Debug\takip3.depogiris.resources
+C:\Users\aLP\source\repos\takip3\takip3\obj\Debug\takip3.depotanimla.resources
+C:\Users\aLP\source\repos\takip3\takip3\obj\Debug\takip3.urunekle.resources
+C:\Users\aLP\source\repos\takip3\takip3\obj\Debug\takip3.urunlistele.resources
+C:\Users\aLP\source\repos\takip3\takip3\obj\Debug\takip3.csprojAssemblyReference.cache
+C:\Users\aLP\Desktop\takip3\takip3\bin\Debug\stok_takip.mdf
+C:\Users\aLP\Desktop\takip3\takip3\bin\Debug\stok_takip_log.ldf
+C:\Users\aLP\Desktop\takip3\takip3\bin\Debug\takip3.exe.config
+C:\Users\aLP\Desktop\takip3\takip3\bin\Debug\takip3.exe
+C:\Users\aLP\Desktop\takip3\takip3\bin\Debug\takip3.pdb
+C:\Users\aLP\Desktop\takip3\takip3\obj\Debug\takip3.csprojAssemblyReference.cache
+C:\Users\aLP\Desktop\takip3\takip3\obj\Debug\takip3.aktarma.resources
+C:\Users\aLP\Desktop\takip3\takip3\obj\Debug\takip3.anaekran.resources
+C:\Users\aLP\Desktop\takip3\takip3\obj\Debug\takip3.depocikis.resources
+C:\Users\aLP\Desktop\takip3\takip3\obj\Debug\takip3.depogiris.resources
+C:\Users\aLP\Desktop\takip3\takip3\obj\Debug\takip3.depotanimla.resources
+C:\Users\aLP\Desktop\takip3\takip3\obj\Debug\takip3.Form1.resources
+C:\Users\aLP\Desktop\takip3\takip3\obj\Debug\takip3.Properties.Resources.resources
+C:\Users\aLP\Desktop\takip3\takip3\obj\Debug\takip3.urunekle.resources
+C:\Users\aLP\Desktop\takip3\takip3\obj\Debug\takip3.urunlistele.resources
+C:\Users\aLP\Desktop\takip3\takip3\obj\Debug\takip3.csproj.GenerateResource.cache
+C:\Users\aLP\Desktop\takip3\takip3\obj\Debug\takip3.csproj.CoreCompileInputs.cache
+C:\Users\aLP\Desktop\takip3\takip3\obj\Debug\takip3.exe
+C:\Users\aLP\Desktop\takip3\takip3\obj\Debug\takip3.pdb
+C:\Users\vaio2\Desktop\takip3\takip3\bin\Debug\stok_takip.mdf
+C:\Users\vaio2\Desktop\takip3\takip3\bin\Debug\stok_takip_log.ldf
+C:\Users\vaio2\Desktop\takip3\takip3\bin\Debug\takip3.exe.config
+C:\Users\vaio2\Desktop\takip3\takip3\bin\Debug\takip3.exe
+C:\Users\vaio2\Desktop\takip3\takip3\bin\Debug\takip3.pdb
+C:\Users\vaio2\Desktop\takip3\takip3\bin\Debug\System.Data.SqlClient.dll
+C:\Users\vaio2\Desktop\takip3\takip3\bin\Debug\System.Data.SqlClient.xml
+C:\Users\vaio2\Desktop\takip3\takip3\obj\Debug\takip3.aktarma.resources
+C:\Users\vaio2\Desktop\takip3\takip3\obj\Debug\takip3.anaekran.resources
+C:\Users\vaio2\Desktop\takip3\takip3\obj\Debug\takip3.depocikis.resources
+C:\Users\vaio2\Desktop\takip3\takip3\obj\Debug\takip3.depogiris.resources
+C:\Users\vaio2\Desktop\takip3\takip3\obj\Debug\takip3.depotanimla.resources
+C:\Users\vaio2\Desktop\takip3\takip3\obj\Debug\takip3.Form1.resources
+C:\Users\vaio2\Desktop\takip3\takip3\obj\Debug\takip3.Properties.Resources.resources
+C:\Users\vaio2\Desktop\takip3\takip3\obj\Debug\takip3.urunekle.resources
+C:\Users\vaio2\Desktop\takip3\takip3\obj\Debug\takip3.urunlistele.resources
+C:\Users\vaio2\Desktop\takip3\takip3\obj\Debug\takip3.csproj.GenerateResource.cache
+C:\Users\vaio2\Desktop\takip3\takip3\obj\Debug\takip3.csproj.CopyComplete
+C:\Users\vaio2\Desktop\takip3\takip3\obj\Debug\takip3.exe
+C:\Users\vaio2\Desktop\takip3\takip3\obj\Debug\takip3.pdb
+C:\Users\vaio2\Desktop\takip3\takip3\obj\Debug\takip3.csprojAssemblyReference.cache
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\bin\Debug\stok_takip.mdf
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\bin\Debug\stok_takip_log.ldf
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\bin\Debug\takip3.exe.config
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\bin\Debug\takip3.exe
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\bin\Debug\takip3.pdb
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\bin\Debug\System.Data.SqlClient.dll
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\bin\Debug\System.Data.SqlClient.xml
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.csprojAssemblyReference.cache
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.aktarma.resources
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.anaekran.resources
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.depocikis.resources
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.depogiris.resources
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.depotanimla.resources
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.excel.resources
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.Form1.resources
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.Properties.Resources.resources
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.urunekle.resources
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.urunlistele.resources
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.GenerateResource.cache
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.CopyComplete
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.exe
+C:\Users\devel\Desktop\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.pdb
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\bin\Debug\stok_takip.mdf
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\bin\Debug\stok_takip_log.ldf
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\bin\Debug\takip3.exe.config
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\bin\Debug\takip3.exe
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\bin\Debug\takip3.pdb
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\bin\Debug\System.Data.SqlClient.dll
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\bin\Debug\System.Data.SqlClient.xml
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.csprojAssemblyReference.cache
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.aktarma.resources
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.anaekran.resources
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.depocikis.resources
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.depogiris.resources
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.depotanimla.resources
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.excel.resources
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.Form1.resources
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.Properties.Resources.resources
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.urunekle.resources
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.urunlistele.resources
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.GenerateResource.cache
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.CoreCompileInputs.cache
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.CopyComplete
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.exe
+C:\Users\aLP\Desktop\yedek\takip3 - Kopya\takip3 - Kopya\takip3\obj\Debug\takip3.pdb
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.aktarma.resources
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.anaekran.resources
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.dbsifirla.resources
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depocikis.resources
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depogiris.resources
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depotanimla.resources
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.excel.resources
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.Form1.resources
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.Properties.Resources.resources
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.urunekle.resources
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.urunlistele.resources
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.veritabaniyedekle.resources
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.GenerateResource.cache
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\bin\Debug\stok_takip.mdf
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\bin\Debug\stok_takip_log.ldf
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.exe.config
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.exe
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.pdb
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\bin\Debug\System.Data.SqlClient.dll
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\bin\Debug\System.Data.SqlClient.xml
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.CopyComplete
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.exe
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.pdb
+C:\Users\devel\Desktop\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csprojAssemblyReference.cache
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\stok_takip.mdf
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\stok_takip_log.ldf
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.exe.config
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.exe
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.pdb
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\System.Data.SqlClient.dll
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\System.Data.SqlClient.xml
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csprojAssemblyReference.cache
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.aktarma.resources
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.anaekran.resources
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.dbsifirla.resources
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depocikis.resources
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depogiris.resources
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depotanimla.resources
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.excel.resources
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.Form1.resources
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.Properties.Resources.resources
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.urunekle.resources
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.urunlistele.resources
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.veritabaniyedekle.resources
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.GenerateResource.cache
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.CopyComplete
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.exe
+C:\Users\devel\Desktop\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.pdb
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\stok_takip.mdf
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\stok_takip_log.ldf
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.exe.config
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.exe
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\System.Data.SqlClient.dll
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\System.Data.SqlClient.xml
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csprojAssemblyReference.cache
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.aktarma.resources
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.anaekran.resources
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.dbsifirla.resources
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depocikis.resources
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depogiris.resources
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depotanimla.resources
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.excel.resources
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.Form1.resources
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.Properties.Resources.resources
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.urunekle.resources
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.urunlistele.resources
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.veritabaniyedekle.resources
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.GenerateResource.cache
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.CoreCompileInputs.cache
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.CopyComplete
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.exe
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.pdb
+C:\Users\aLP\Desktop\SON STOK PROGRAMI\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.pdb
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\stok_takip.mdf
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\stok_takip_log.ldf
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.exe.config
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.exe
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.pdb
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\System.Data.SqlClient.dll
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\System.Data.SqlClient.xml
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csprojAssemblyReference.cache
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.aktarma.resources
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.anaekran.resources
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.dbsifirla.resources
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depocikis.resources
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depogiris.resources
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depotanimla.resources
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.excel.resources
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.Form1.resources
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.Properties.Resources.resources
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.urunekle.resources
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.urunlistele.resources
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.veritabaniyedekle.resources
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.GenerateResource.cache
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.CopyComplete
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.exe
+C:\Users\devel\Desktop\SON STOK PROGRAMI 1\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.pdb
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\stok_takip.mdf
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\stok_takip_log.ldf
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.exe.config
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.exe
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\takip3.pdb
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\System.Data.SqlClient.dll
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\bin\Debug\System.Data.SqlClient.xml
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csprojAssemblyReference.cache
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.aktarma.resources
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.anaekran.resources
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.dbsifirla.resources
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depocikis.resources
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depogiris.resources
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.depotanimla.resources
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.excel.resources
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.Form1.resources
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.Properties.Resources.resources
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.urunekle.resources
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.urunlistele.resources
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.veritabaniyedekle.resources
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.GenerateResource.cache
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.csproj.CopyComplete
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.exe
+C:\Users\devel\Desktop\deneme\SON STOK PROGRAMI 1\takipsistem\takipsistem\takip3 - Kopya\takip3\obj\Debug\takip3.pdb
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\bin\Debug\stok_takip.mdf
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\bin\Debug\stok_takip_log.ldf
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\bin\Debug\takip3.exe.config
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\bin\Debug\takip3.exe
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\bin\Debug\takip3.pdb
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\bin\Debug\System.Data.SqlClient.dll
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\bin\Debug\System.Data.SqlClient.xml
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.csprojAssemblyReference.cache
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.aktarma.resources
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.anaekran.resources
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.dbsifirla.resources
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.depocikis.resources
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.depogiris.resources
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.depotanimla.resources
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.excel.resources
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.Form1.resources
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.Properties.Resources.resources
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.urunekle.resources
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.urunlistele.resources
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.veritabaniyedekle.resources
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.csproj.GenerateResource.cache
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.csproj.CopyComplete
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.exe
+C:\Users\devel\Desktop\otomasyon\otomasyon\takip3\obj\Debug\takip3.pdb
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\bin\Debug\stok_takip.mdf
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\bin\Debug\stok_takip_log.ldf
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\bin\Debug\takip3.exe.config
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\bin\Debug\takip3.exe
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\bin\Debug\takip3.pdb
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\bin\Debug\System.Data.SqlClient.dll
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\bin\Debug\System.Data.SqlClient.xml
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.csprojAssemblyReference.cache
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.aktarma.resources
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.anaekran.resources
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.dbsifirla.resources
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.depocikis.resources
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.depogiris.resources
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.depotanimla.resources
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.excel.resources
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.Form1.resources
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.Properties.Resources.resources
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.urunekle.resources
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.urunlistele.resources
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.veritabaniyedekle.resources
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.csproj.GenerateResource.cache
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.csproj.CopyComplete
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.exe
+C:\Users\devel\Downloads\otomasyon\otomasyon\otomasyon\takip3\obj\Debug\takip3.pdb
